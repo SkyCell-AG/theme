@@ -1,0 +1,14 @@
+{
+  "name": "@skycell-ag/theme",
+  "version": "1.0.0",
+  "private": false,
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyCell-AG/RichTable.git"
+  },
+  "main": "src/theme.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
