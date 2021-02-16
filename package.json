@@ -5,7 +5,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyCell-AG/RichTable.git"
+    "url": "git+https://github.com/SkyCell-AG/Theme.git"
   },
   "main": "src/theme.js",
   "keywords": [],
