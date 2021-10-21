@@ -43,6 +43,8 @@ const theme = {
             lightYellow: '#EEE172',
             green: '#17921F',
             red: '#D44848',
+            beige: '#F0DEBF',
+            orange: '#C27800',
         },
         action: {
             selected: '#6FCAE8',
@@ -117,6 +119,9 @@ const theme = {
         },
         title: {
             fontSize: 72,
+        },
+        small: {
+            fontSize: 10,
         },
     },
 }
