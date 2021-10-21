@@ -120,7 +120,7 @@ const theme = {
         title: {
             fontSize: 72,
         },
-        small: {
+        subtitle2: {
             fontSize: 10,
         },
     },
