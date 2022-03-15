@@ -60,7 +60,7 @@ const theme = {
         },
     },
     shape: {
-        tabHeight: 41,
+        tabHeight: 36,
     },
     typography: {
         fontFamily: 'Roboto',
