@@ -29,6 +29,7 @@ const skycellSecondaryPalette = {
     main: '#939393',
     light: '#D7D7D7',
     dark: '#393939',
+    inputBackground: '#F3F3F3',
 }
 
 const theme = {
