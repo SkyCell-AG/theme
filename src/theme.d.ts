@@ -24,6 +24,9 @@ declare module '@skycell-ag/theme' {
             error: {
                 main: string,
             },
+            warning: {
+                main: string,
+            }
         },
         shape: object,
         typography: object,
