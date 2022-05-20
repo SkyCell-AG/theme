@@ -59,6 +59,9 @@ const theme = {
         error: {
             main: '#E22C2C',
         },
+        warning: {
+            main: '#FFE5E5',
+        }
     },
     shape: {
         tabHeight: 36,
