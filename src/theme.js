@@ -67,7 +67,7 @@ const theme = {
         tabHeight: 36,
     },
     typography: {
-        fontFamily: 'Roboto',
+        fontFamily: 'Roboto, Muli, Helvetica Neue, Arial, sans-serif',
         h1: {
             fontSize: 36,
             fontWeight: 200,
