@@ -43,6 +43,7 @@ const theme = {
             yellow: '#EDAE49',
             lightYellow: '#EEE172',
             green: '#17921F',
+            lightGreen: '#8CCEA3',
             red: '#D44848',
             beige: '#F0DEBF',
             orange: '#C27800',
