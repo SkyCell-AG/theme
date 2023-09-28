@@ -46,6 +46,7 @@ const theme = {
             red: '#D44848',
             beige: '#F0DEBF',
             orange: '#C27800',
+            blue: '#08499a',
         },
         action: {
             selected: '#6FCAE8',
